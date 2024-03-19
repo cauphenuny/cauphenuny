@@ -1,4 +1,4 @@
-An undergraduate in University of Chinese Academy of Science.
+An undergraduate in University of Chinese Academy of Sciences.
 
 My [blog](https://hydropek.github.io/)
 
