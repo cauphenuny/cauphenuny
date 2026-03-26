@@ -1,7 +1,5 @@
 An undergraduate in University of Chinese Academy of Sciences.
 
-[Blog](https://cauphenuny.github.io/)
-
 <!--
 **hydropek/hydropek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
